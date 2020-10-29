@@ -11,22 +11,36 @@
 
 ![IMG_20180215_150631](https://user-images.githubusercontent.com/67005999/97183104-8dcec080-17c7-11eb-8fec-8de4738969b8.jpg)
 
-### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
+### Hi there, I'm [Ebrahim Mohammad Saleh!](https://ebrahimbd.github.io) 👋
 
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-
+ <a href="https://www.facebook.com/ebrahim1bd" class="fb-ic">
+            <i class="fab fa-facebook-f fa-lg black-text mr-md-5 mr-3 fa-1.5x"> </i>
+          </a>
+          <!-- Twitter -->
+          <a href="https://github.com/ebrahimbd" >
+            <i class="fab fa-github fa-lg black-text mr-md-5 mr-3 fa-1.5x"> </i>
+          </a>
+            <!--Linkedin -->
+          <a href="https://www.linkedin.com/in/ebrahimbd/ class="li-ic">
+            <i class="fab fa-linkedin-in fa-lg black-text mr-md-5 mr-3 fa-1.5x"> </i>
+          </a>
+         
+		  <a href="https://www.coursera.org/user/126700958e9a0abc3b4ff6f94e5bdf5b" class="pin-ic">
+           <img class="fab  fa-lg black-text mr-md-5 mr-3 fa-1.5x" src="image/coursera.png" width="" height="20px">
+          </a>
+		 
+		 
+		  <a  href="https://www.quora.com/profile/Ebrahim-Mohammad-Saleh/" >
+            <i class="fab fa-quora fa-lg black-text mr-md-5 mr-3 fa-1.5x"> </i>
+          </a>
+		 
+		 
+		  <a href="https://www.pinterest.com/ebrahim100719" class="pin-ic">
+            <i class="fab fa-pinterest fa-lg black-text mr-md-5 mr-3 fa-1.5x"> </i>
+          </a>
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
 
 - 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
 - 🌱 I’m currently learning GraphQL & Typescript
