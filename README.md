@@ -9,6 +9,14 @@
 - 💬 Ask me about website development
 - 📫 How to reach me: https://ebrahim.rf.gd
 
+**Languages and Tools:**  
+
+<code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg"></code>
+<code><img height="30" src="https://www.kindpng.com/picc/m/300-3001456_bootstrap-bootstrap-4-icon-png-transparent-png.png"></code>
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD_s__gigD_rQlAKfiwVt-xuZMFhwHuHU3hg&usqp=CAU"></code>
+<code><img height="30" src="https://image.shutterstock.com/image-vector/vector-illustration-icon-python-programming-260nw-1405339748.jpg"></code>
+
+
 ![IMG_20180215_150631](https://user-images.githubusercontent.com/67005999/97183104-8dcec080-17c7-11eb-8fec-8de4738969b8.jpg)
 
 
@@ -23,8 +31,7 @@
 		   <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/mozilla/36/closed-mailbox-with-lowered-flag_1f4ea.png" width="32" height="32"> post code: 3100
           
 		 </p>
-<br />
-<br />
+
 
 
 - 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
@@ -32,13 +39,7 @@
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
-**Languages and Tools:**  
 
-<code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <!--- 
   if you have forked this to use on your profile, 
