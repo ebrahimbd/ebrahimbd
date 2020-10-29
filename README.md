@@ -1,4 +1,4 @@
- Hi there 👋
+### Hi there, I'm [Ebrahim Mohammad Saleh](https://ebrahimbd.github.io) 👋
 
 
 
@@ -11,33 +11,18 @@
 
 ![IMG_20180215_150631](https://user-images.githubusercontent.com/67005999/97183104-8dcec080-17c7-11eb-8fec-8de4738969b8.jpg)
 
-### Hi there, I'm [Ebrahim Mohammad Saleh!](https://ebrahimbd.github.io) 👋
 
- <a href="https://www.facebook.com/ebrahim1bd" class="fb-ic">
-            <i class="fab fa-facebook-f fa-lg black-text mr-md-5 mr-3 fa-1.5x"> </i>
-          </a>
-          <!-- Twitter -->
-          <a href="https://github.com/ebrahimbd" >
-            <i class="fab fa-github fa-lg black-text mr-md-5 mr-3 fa-1.5x"> </i>
-          </a>
-            <!--Linkedin -->
-          <a href="https://www.linkedin.com/in/ebrahimbd/ class="li-ic">
-            <i class="fab fa-linkedin-in fa-lg black-text mr-md-5 mr-3 fa-1.5x"> </i>
-          </a>
-         
-		  <a href="https://www.coursera.org/user/126700958e9a0abc3b4ff6f94e5bdf5b" class="pin-ic">
-           <img class="fab  fa-lg black-text mr-md-5 mr-3 fa-1.5x" src="image/coursera.png" width="" height="20px">
-          </a>
-		 
-		 
-		  <a  href="https://www.quora.com/profile/Ebrahim-Mohammad-Saleh/" >
-            <i class="fab fa-quora fa-lg black-text mr-md-5 mr-3 fa-1.5x"> </i>
-          </a>
-		 
-		 
-		  <a href="https://www.pinterest.com/ebrahim100719" class="pin-ic">
-            <i class="fab fa-pinterest fa-lg black-text mr-md-5 mr-3 fa-1.5x"> </i>
-          </a>
+
+ <p id="ss">
+           <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/google/110/telephone-receiver_1f4de.png" width="32" height="32"> Phone No:+8801795374751
+          <br>
+		    <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/htc/37/e-mail-symbol_1f4e7.png" width="32" height="32"> email:ebrahim16sust@gmail
+          <br>
+		   <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/twitter/31/house-building_1f3e0.png" width="32" height="32">Address: sylhet sadar , sylhet , akhalia topobon , Bangladesh
+          <br>
+		   <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/mozilla/36/closed-mailbox-with-lowered-flag_1f4ea.png" width="32" height="32"> post code: 3100
+          
+		 </p>
 <br />
 <br />
 
