@@ -1,10 +1,10 @@
 ### Hi there, I'm [Ebrahim Mohammad Saleh](https://www.linkedin.com/in/ebrahimbd/) 👋
 
-<code><img  src="https://api.travis-ci.org/ali-irawan/xtra.svg?branch=master&status=passed">     
+<!-- <code><img  src="https://api.travis-ci.org/ali-irawan/xtra.svg?branch=master&status=passed">     
 <img  src="https://poser.pugx.org/ali-irawan/xtra/d/total.svg">
 <img  src="https://poser.pugx.org/ali-irawan/xtra/v/stable.svg">
 <img  src="https://poser.pugx.org/ali-irawan/xtra/license.svg">
-</code>
+</code> -->
 
 
 - 🎓 I’m currently student of Shahjalal University of Science and Technology Sylhet, Bangladesh at Department of Chemical Engineering and Polymer                       Science  
