@@ -22,9 +22,9 @@
 <code><img height="30" src="https://image.shutterstock.com/image-vector/vector-illustration-icon-python-programming-260nw-1405339748.jpg"></code>
 
 
-![IMG_20180215_150631](https://user-images.githubusercontent.com/67005999/97183104-8dcec080-17c7-11eb-8fec-8de4738969b8.jpg)
+<!-- ![IMG_20180215_150631](https://user-images.githubusercontent.com/67005999/97183104-8dcec080-17c7-11eb-8fec-8de4738969b8.jpg)
 
-
+ -->
 
 
 
