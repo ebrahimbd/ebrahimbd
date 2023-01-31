@@ -8,11 +8,11 @@
 
 
 - 🎓  I graduated with a bachelor of science degree in Chemical Engineering and Polymer Science from the Shahjalal University of Science and Technology          Sylhet, Bangladesh.  
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on website development
 - 🤔 I’m looking for help with ethical hacking
 - 💬 Ask me about website development
-- 📫 How to reach me: https://salehcv.web.app/ or https://ebrahim.rf.gd
+- 📫 How to reach me: https://salehcv.web.app/ 
 
 **Languages and Tools:**  
 
