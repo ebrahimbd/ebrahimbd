@@ -24,9 +24,10 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Javascript-736400_960_720.png/640px-Javascript-736400_960_720.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
+<code><img width="30" height="30" src="https://img.icons8.com/color/48/nuxt-jc.png" alt="nuxt-jc"/></code>
 <code><img height="30" src="https://image.shutterstock.com/image-vector/vector-illustration-icon-python-programming-260nw-1405339748.jpg"></code>
-<code><img src="https://img.icons8.com/color/48/000000/django.png"/></code>
-
+<code> <img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="django"/></code>
+<code><img width="64" height="64" src="https://img.icons8.com/nolan/64/nextjs.png" alt="nextjs"/></code>
 
 
 
