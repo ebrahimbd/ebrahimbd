@@ -16,9 +16,7 @@
 
 **Languages and Tools:**  
 
-<code><img src="https://img.icons8.com/color/30/000000/html-5--v1.png"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD_s__gigD_rQlAKfiwVt-xuZMFhwHuHU3hg&usqp=CAU"></code>
+ 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png"></code>
