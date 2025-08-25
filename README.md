@@ -13,7 +13,7 @@
 const Ebrahim = {
   pronouns: "he/him",
   background: "Chemical Engineering & Polymer Science",
-  code: ["Javascript", "Python", "Ruby", "C++", "HTML", "CSS"],
+  code: ["Javascript", "Typescript", "Python", "Ruby", "C++", "C", "Rust"],
   frameworks: ["React", "Nuxt.js", "Next.js", "Django", "Ruby on Rails"],
   tools: ["Docker", "Git", "CI/CD (Jenkins)", "Testing", "AWS EC2" ],
   interests: ["Machine Learning", "Web Development", "Ethical Hacking"],
