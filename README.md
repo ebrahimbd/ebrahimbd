@@ -15,7 +15,7 @@ const Ebrahim = {
   background: "Chemical Engineering & Polymer Science",
   code: ["Javascript", "Typescript", "Python", "Ruby", "C++", "C", "Rust"],
   frameworks: ["React", "Nuxt.js", "Next.js", "Django", "Ruby on Rails"],
-  tools: ["Docker", "Git", "CI/CD (Jenkins)", "Testing", "AWS EC2" ],
+  tools: ["Docker", "Git", "CI/CD (Jenkins)", "AWS EC2" ],
   interests: ["Machine Learning", "Software Development", "Web Development", "Ethical Hacking"],
   currentFocus: "Building dynamic web apps and integrating APIs",
   funFact: "I love solving problems in competitive programming and open-source contributions!"
