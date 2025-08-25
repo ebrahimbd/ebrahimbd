@@ -11,7 +11,6 @@
 
 ```javascript
 const Ebrahim = {
-
   pronouns: "he/him",
   background: "Chemical Engineering & Polymer Science",
   code: ["Javascript", "Python", "Ruby", "C++", "HTML", "CSS"],
@@ -20,7 +19,6 @@ const Ebrahim = {
   interests: ["Machine Learning", "Web Development", "Ethical Hacking"],
   currentFocus: "Building dynamic web apps and integrating APIs",
   funFact: "I love solving problems in competitive programming and open-source contributions!"
-
 }
 
 ```
