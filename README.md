@@ -1,7 +1,7 @@
 <h2> Hi, I'm Ebrahim Mohammad Saleh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<p><em>Software Engineer at <a href="https://salehcv.web.app/">portfolio</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
+<p><em>Software Engineer  <a href="https://salehcv.web.app/">portfolio</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 [![LinkedIn: ebrahimbd](https://img.shields.io/badge/-ebrahimbd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ebrahimbd/)](https://www.linkedin.com/in/ebrahimbd/)
 [![GitHub Saleh](https://img.shields.io/github/followers/ebrahimbd?label=Follow&style=social)](https://github.com/ebrahimbd)
