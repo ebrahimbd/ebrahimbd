@@ -3,7 +3,7 @@
 
 <p><em>Software Engineer  <a href="https://salehc.web.app/">portfolio</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
-<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right:4px;">[![LinkedIn: ebrahimbd](https://img.shields.io/badge/-ebrahimbd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ebrahimb/)](https://www.linkedin.com/in/ebrahimbd/)
+<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right:4px;">[![LinkedIn: ebrahimbd](https://img.shields.io/badge/-ebrahimbd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ebrahimb/)](https://www.linkedin.com/in/ebrahimb/)
 [![GitHub Saleh](https://img.shields.io/github/followers/ebrahimbd?label=Follow&style=social)](https://github.com/ebrahimbd)
 
 
