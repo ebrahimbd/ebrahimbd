@@ -12,7 +12,10 @@
 ```javascript
 const Ebrahim = {
   pronouns: "he/him",
-  background: "Chemical Engineering & Polymer Science",
+  education: {
+    BSc: "Chemical Engineering & Polymer Science from Shahjalal University of Science and Technology, Bangladesh",
+    MSc: "Computer Science & Engineering from Jahangirnagar University, Bangladesh"
+  },
   code: ["Javascript", "Typescript", "Python", "Ruby", "C++", "C", "Rust"],
   frameworks: ["React", "Next.js", "Vue.js", "Nuxt.js", "Django", "Ruby on Rails"],
   tools: ["Docker", "Git", "CI/CD (Jenkins)", "AWS EC2" ],
