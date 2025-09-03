@@ -13,8 +13,8 @@
 const Ebrahim = {
   pronouns: "he/him",
   education: {
-    BSc: "Chemical Engineering & Polymer Science from Shahjalal University of Science and Technology, Bangladesh",
     MSc: "Computer Science & Engineering from Jahangirnagar University, Bangladesh"
+    BSc: "Chemical Engineering & Polymer Science from Shahjalal University of Science and Technology, Bangladesh",
   },
   code: ["Javascript", "Typescript", "Python", "Ruby", "C++", "C", "Rust"],
   frameworks: ["React", "Next.js", "Vue.js", "Nuxt.js", "Django", "Ruby on Rails"],
