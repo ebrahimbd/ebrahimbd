@@ -13,6 +13,7 @@
 const Ebrahim = {
   pronouns: "he/him",
   education: {
+    PHD: "Searching...............................................................",
     MSc: "Computer Science & Engineering from Jahangirnagar University, Bangladesh",
     BSc: "Chemical Engineering & Polymer Science from Shahjalal University of Science and Technology, Bangladesh",
   },
