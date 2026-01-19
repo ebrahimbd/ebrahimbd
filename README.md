@@ -4,7 +4,7 @@
 <p><em>Software Engineer  <a href="https://salehcv.web.app/">Portfolio</a> <img src="https://cdn-icons-png.flaticon.com/512/4661/4661347.png" width="30"></em></p>
 
 <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right:4px;">[![LinkedIn: ebrahimbd](https://img.shields.io/badge/-ebrahimbd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ebrahimbd/)](https://www.linkedin.com/in/ebrahimbd/)
-   [![Codeforces](https://badges.joonhyung.xyz/codeforces/ebrahimbd.svg)](https://codeforces.com/profile/ebrahimbd)
+   [![Codeforces](https://badges.joonhyung.xyz/codeforces/.svg)](https://codeforces.com/profile/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
